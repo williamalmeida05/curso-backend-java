@@ -1,0 +1,15 @@
+Passo a passo ao acordar
+
+1 - Abro os olhos
+2 - Pego o celular com a mão
+3 - Cliclo no botão para ver as horas
+4 - Retiro o coberto e me sento na cama
+5 - Fico de pé e vou em direção a porta do quarto
+6 - A porta do quarto está aberta? Sim
+	1 - Giro a maçaneta e abro a porta
+	2 - Sigo em direção ao banheiro
+7 - A porta do quarto está aberta? Não
+	1 - Giro a chave para destravar
+	2 - Giro a maçaneta e abro a porta
+	3 - Sigo em direção ao banheiro
+8 - Fim
