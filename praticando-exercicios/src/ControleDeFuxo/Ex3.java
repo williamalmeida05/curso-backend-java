@@ -11,7 +11,7 @@ public class Ex3 {
     public static void main(String args[]){
         Scanner s = new Scanner(System.in);
 
-        double pessoas = 15;
+        int pessoas = 5;
         double contadorIdade1 = 0;
         double contadorIdade2 = 0;
         double contadorIdade3 = 0;
