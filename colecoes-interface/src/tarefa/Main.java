@@ -1,3 +1,12 @@
+/*
+*Criar um exemplode orientação à objeto:
+*
+* Criar uma Classe chamada Pessoa, 2 sub-classes, Pessoa Física e Pessoa Jurídica.
+* Inserir as propriedades de Pessoa Física e Pessoa Jurídica, na classe Pessoa.
+* Criar propriedades específicas para cada classe concreta.
+* */
+
+
 package tarefa;
 
 public class Main {
