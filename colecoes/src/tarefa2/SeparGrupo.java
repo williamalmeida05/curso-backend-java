@@ -1,6 +1,6 @@
 /*1ªpart: Ler no console nome de pessoas separadas por vírgula, e depois separar os valores que foram lidos, guardar
-* em uma variavel, ordenar por ordem alfabetica e depois imprimir no console
-* */
+ * em uma variavel, ordenar por ordem alfabetica e depois imprimir no console
+ * */
 /*2ªpart: Ler no console "Nome - Sexo", imprimir o grupo de pessoas do sexo masculino e feminino*/
 
 
@@ -79,4 +79,3 @@ public class SeparGrupo {
 
 
 }
-
