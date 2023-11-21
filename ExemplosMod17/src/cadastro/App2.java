@@ -1,6 +1,4 @@
 package cadastro;
-
-
 import cadastro.dao.ClienteMapDAO;
 import cadastro.dao.IClienteDAO;
 import cadastro.dao.IProdutoDAO;
