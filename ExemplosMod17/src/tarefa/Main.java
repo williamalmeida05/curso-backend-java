@@ -2,11 +2,7 @@ package tarefa;
 
 /*
 * Por em pratica o generics, pode ser uma lista
-*
-* criar classes de carros(honda,civic)
-*
-* a lista deve receber qualquer tipo de caro
-*
+
 * dica: rever classe abstrata e classe concreta, pense na lista utilizando a classe abstrata
 *
 *
