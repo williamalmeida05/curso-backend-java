@@ -1,8 +1,11 @@
 package br.com.will.tarefa;
 
-@Anotacao(value = "Tabela")
+//@Deprecated
 public class TabelaAnotacao {
 
     private String value;
+
+    @Anotacao("Tabela")
+    private Long codigo;
 
 }
